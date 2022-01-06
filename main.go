@@ -7,7 +7,7 @@ import (
 
 //Calling all the functions using switchcase
 func main() {
-	fmt.Println("Choose one of the following options\n1. Addition\n2.Subtraction\n3.Multiplication\n4.Division")
+	fmt.Println("Choose one of the following options:\n1. Addition\n2.Subtraction\n3.Multiplication\n4.Division")
 	var option int
 	fmt.Scan(&option)
 
