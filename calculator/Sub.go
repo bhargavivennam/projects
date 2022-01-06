@@ -2,6 +2,8 @@ package Operations
 
 import "fmt"
 
+// To perform subtraction operation on different datatypes
+
 func SubInt8() {
 	var num1 int8
 	fmt.Println("Enter first value of type int8 :")

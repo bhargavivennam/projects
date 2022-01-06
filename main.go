@@ -5,6 +5,7 @@ import (
 	"fmt"
 )
 
+//Calling all the functions using switchcase
 func main() {
 	fmt.Println("Choose one of the following options\n1. Addition\n2.Subtraction\n3.Multiplication\n4.Division")
 	var option int
@@ -71,55 +72,5 @@ func main() {
 		Operations.DivideFloat32()
 		Operations.DivideFloat64()
 	}
-	// Operations.AddInt8()
-	// Operations.AddInt16()
-	// Operations.AddInt32()
-	// Operations.AddInt64()
 
-	// Operations.AddUint8()
-	// Operations.AddUint16()
-	// Operations.AddUint32()
-	// Operations.AddUint64()
-
-	// Operations.AddFloat32()
-	// Operations.AddFloat64()
-
-	// Operations.SubInt8()
-	// Operations.SubInt16()
-	// Operations.SubInt32()
-	// Operations.SubInt64()
-
-	// Operations.SubUint8()
-	// Operations.SubUint16()
-	// Operations.SubUint32()
-	// Operations.SubUint64()
-
-	// Operations.SubFloat32()
-	// Operations.SubFloat64()
-
-	// Operations.MultiplyInt8()
-	// Operations.MultiplyInt16()
-	// Operations.MultiplyInt32()
-	// Operations.MultiplyInt64()
-
-	// Operations.MultiplyUint8()
-	// Operations.MultiplyUint16()
-	// Operations.MultiplyUint32()
-	// Operations.MultiplyUint64()
-
-	// Operations.MultiplyFloat32()
-	// Operations.MultiplyFloat64()
-
-	// Operations.DivideInt8()
-	// Operations.DivideInt16()
-	// Operations.DivideInt32()
-	// Operations.DivideInt64()
-
-	// Operations.DivideUint8()
-	// Operations.DivideUint16()
-	// Operations.DivideUint32()
-	// Operations.DivideUint64()
-
-	// Operations.DivideFloat32()
-	// Operations.DivideFloat64()
 }

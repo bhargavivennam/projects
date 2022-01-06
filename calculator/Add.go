@@ -2,6 +2,7 @@ package Operations
 
 import "fmt"
 
+// To perform addition operation on different datatypes
 func AddInt8() {
 	var num1 int8
 	fmt.Println("Enter first value of type int8 :")

@@ -4,6 +4,8 @@ import (
 	"fmt"
 )
 
+// To perform multiplication operation on different datatypes
+
 func MultiplyInt8() {
 	var num1 int8
 	fmt.Println("Enter first value of type int8 :")
