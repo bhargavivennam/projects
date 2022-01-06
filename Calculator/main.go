@@ -1,7 +1,7 @@
 package main
 
 import (
-	Operations "GOMODULE/calculator"
+	Operations "GOMODULE/calculator/Operations"
 	"fmt"
 )
 
