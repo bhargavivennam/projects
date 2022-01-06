@@ -1,3 +1,3 @@
 # projects
 
-This repository is for GoLang Assignments
+This repository is for GoLang Projects
