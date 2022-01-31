@@ -2,6 +2,7 @@ package main
 
 import (
 	hogwarts "GOMODULE/MiniProject2/HogwartsTrainModule"
+	hogwartsStructs "GOMODULE/MiniProject2/HogwartsUsingStructs"
 	howzatt "GOMODULE/MiniProject2/Howzatt"
 	"fmt"
 )
@@ -14,4 +15,7 @@ func main() {
 
 	howzatt.Wankhade()
 
+	//Using structs
+	fmt.Println("\n\n\n\n\n\nThis is using structs")
+	hogwartsStructs.HarryPotter()
 }
